@@ -23,6 +23,6 @@ const styles = StyleSheet.create({
     }
 });
 
-const { headerContainer, header} = styles;
+const { headerContainer, header } = styles;
 
 export default Header;
